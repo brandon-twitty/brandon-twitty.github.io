@@ -55,7 +55,7 @@
       "themeColor": "#002c5b"
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "uniqCompNum": 47,
+    "uniqCompNum": 58,
     "versionPublish": "4.12.4",
     "canonical-url": false
   },
